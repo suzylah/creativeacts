@@ -1,0 +1,7 @@
+---
+categories: []
+layout: posting
+title: Wrap up on our new website & blog
+created: 1372530320
+---
+<p>Just to explain what' you're looking at now, it's a website <a href="/page/privacy-mastazinenet">respecting your privacy</a>, with infos on <a href="/page/join-us">how to become part of the project</a>, <a href="/magazines">direct access to all masta magazines</a> out-of-stock, more infos about <a href="/page/distributing-ma%C5%A1ta-magazines">magazine stores supporting our work</a>, guidelines for <a href="/node/42">submissions of own reports</a>, all necessary <a href="/node/43">contact&nbsp;infos</a>&nbsp;into our different media crews, a <a href="/node/70">secret drawer</a>, and <em>of course, </em>our very own <a href="/updates">group blog</a>.</p><p>Furthermore we added links to some high quality resources on the net we use for various parts of our media work, which you find at the right side in the "Tools, Toolkits and Manuals" section, below links to all our friends &amp; partners. Furthermore we' started experimenting with allowing users to comment, and thus have introduced a <em>recent comments </em>section as well as a list of <em>most discussed</em> articles, in which the amount of comments a blogpost gets matters the most.</p><p>We'll observe if all this enhances your super-sweet experience visiting us at mastazine.net and strip off all unnecessary media waste to get you excited and informed with reports from ground up, as always.</p><p>&nbsp;</p>

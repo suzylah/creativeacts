@@ -1,0 +1,13 @@
+---
+categories:
+- usa
+- boston
+- tarek mehanna
+- islam
+- petition but no petition
+- media
+layout: posting
+title: Send an e-mail with your autograph
+created: 1310548269
+---
+<p><img alt="" src="/assets/files/u6/TarekMehanna.jpg" style="width: 250px; height: 187px; float: right;">In case of lawsuits and courtcases the<strong> newsmedia plays an important part in how a case is known by the public</strong>. It can either make or break the defendent in public opinion and, specially in case of the American jury-system, lead to either conviction or acquital.</p><p>This is Tarek Mehanna, a 28 year old American-born muslim. Oktober 2009 he was arrested on suspicion of<strong> 'terrorist activities', something that can nowadays be anything</strong> (I've been arrested for rowing a tiny rubber boat on a river, okay, on a place that wasn't allowed but come on.. Terrorism?). Ever since his arrest his family, friends and community-members are unanimously convinced that <a href="http://www.freetarek.com/" target="_blank">Tarek is not guilty</a> and have&nbsp; started a campaign to free Tarek Mehanna. Dispite of this, the associated press (AP) has mainly shown the side that the prosecutors defend.</p><p><strong>What is a campaign without a petition?</strong></p><p>Now this is the reason why I'm writing this post. Of course I am solidair the person Tarek Mehanna and the people setting up this campaign, but still I am more interested in the way things are adressed as the topics themselves. Call me shallow.<!--break--></p><p>Thru some friends I came to the <a href="http://www.change.org/petitions/tell-the-associated-press-to-stop-printing-lies-about-tarek" target="_blank">change.org-human-rights-petition-page for Tarek Mehanna</a>. But the petition were not aimed towards the judges, jury or prosecutor but to AP. Why? Well, because Tareks supporters want also be heard in the news. But can a petition supply enough pressure to get this done?</p><p>This is where the interesting part comes. It is not an ordinairy petition in which you only expres your agreement to a certain cause. No, <strong>for every autograph that is signed in this petition an individual e-mail will be sent to each editor of the AP</strong>. This possibility makes a petition more active than just showing that you agree, with the same energy you directly apply pressure on the place where it's needed without having to spend more energy.</p><p>Well, at least this media-source he's got behind him. <strong>Want to do more?</strong> <a href="http://www.freetarek.com/index.php?option=com_mad4joomla&amp;jid=1&amp;Itemid=58" target="_blank">Write Tarek a letter</a>, he'll appreciate it.</p><p>&nbsp;</p>

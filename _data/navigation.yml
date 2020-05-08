@@ -1,0 +1,22 @@
+toc:
+
+- title: Magazine
+  url: introduction.html
+
+- title: Handbook
+  url: configuration.html
+  subfolderitems:
+    - page: Index
+      url: /index.html
+    - page: Perspectives
+      url: /perspectives.html
+    - page: Interviews
+      url: /interviews.html
+    - page: Actions
+      url: /actions.html
+    - page: Methods
+      url: /methods.html
+- title: Blog
+  url: deployment.html
+
+ 

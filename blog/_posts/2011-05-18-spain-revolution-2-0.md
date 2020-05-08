@@ -1,0 +1,38 @@
+---
+categories:
+- everywhere
+- spain
+- madrid
+- barcalona
+- valencia
+- granada
+- sevilla
+- tenerife
+- malaga
+- a coruña
+- las palmas de gran canaria
+- zaragoza
+- santiago de la compostella
+- bilbao
+- murcia
+- santander
+- salamanca
+- palma de mallorca
+- gijón
+- huelva
+- vigo
+- alicante
+- valladolid
+- cartagena
+- london
+- leon
+- revolution
+- democracy
+- occupation
+- square
+- nolesvotes
+layout: posting
+title: Spain, revolution 2.0
+created: 1305714621
+---
+<p><img alt="" src="/assets/files/u6/Spanishrevolution.jpg" style="width: 576px; height: 432px;"><strong><a href="http://www.youtube.com/watch?v=1lBZ-JkNi4w" target="_blank">Jetzt geht losssss!!!!</a></strong></p><p>Is this the moment on which the Arab spring crosses the Mediteranean sea and becomes the European summer? In Spain it starts. Due to a very bad case of economic crisis, unimploymentrates above 20%, and some warm Arab blood, that has been running thru the country since the <a href="http://en.wikipedia.org/wiki/File:Age-of-caliphs.png" target="_blank">Umayyad Caliphate had conquered almost entire Spain from 661-750</a>, it is no surprise that the Spanish are kicking off this party. Of course with some inspiration from the other side of the Mediteranean.</p><p>So what's going on? All over the Spain, thousands of people gathering on squares in the city (<a href="http://www.bbc.co.uk/news/world-12434787" target="_blank">where have we seen this before?</a>), demanding social and political change, a government that actually represents the people and not the economy, more education and less police. Their demands have been gathered in a <a href="http://democraciarealya.es/?page_id=814" target="_blank">manifest</a>. But hey, what are we talking about here?</p><p><strong>Spanish economical and political situation in a nutshell</strong></p><p>Although economy has always been a weak point for me, it is clear to me that the Spaniards' is shit, and up to a certain extend of detail even why. Due to the collapse of mortage- and housingmarkets around in the US the doors to external financing, on which Spain was depending due to <a href="http://4.bp.blogspot.com/-TqiEZLNYcwY/Tc-rs0FfNpI/AAAAAAAASCM/UIGQTjL7EfE/s1600/current%2Baccount%2Bbalance.png" target="_blank">a bigg-ass account deficit</a>, were slammed shut in it's face at the end of 2007. Spain wasn't the only country that was standing behind closed doors, Kazakhstan had the same problem. Don't ask me why, I'm just copying <a href="http://spaineconomy.blogspot.com/2008/11/spanish-crisis-in-nutshell.html" target="_blank">this guy's blog</a> and expect him to know what he is talking about. The result is a milion empty <a href="http://en.wikipedia.org/wiki/Property_is_theft%21" target="_blank">properties</a> in Spain that can't be sold because banks are unable to raise money to provide mortgages. And a construction industry that just keeps building while there isn't even a market to build for. Even I can see that that is asking for problems. But on the other hand, stopping to build would lead to more unimployment so there is not really an <a href="http://www.justsaypictures.com/easy-solutions-01.html" target="_blank">easy solution </a>to the problem.</p><p>The political issue in Spain is easyer to explain. It has a lot to do with<a href="http://en.wikipedia.org/wiki/Next_Spanish_general_election" target="_blank"> next general elections</a> that will be held March 2012, <a href="http://answers.yahoo.com/question/index?qid=20110312162458AAMCjZY" target="_blank">if of course the world still exists by than</a>. The current prime minister Luis Rodriguez Zapatero has anounced not try for a third term and this has provided him with the freedom to make impopular decisions. One of those is the '<a href="http://en.wikinoticia.com/Technology/general-technology/73678-sinde-law-faqs" target="_blank">Sinde law</a>', named after minister of culture Ángeles González-Sinde. Soon<a href="http://arstechnica.com/tech-policy/news/2010/12/how-wikileaks-killed-spains-anti-p2p-law.ars" target="_blank"> it became clear</a>, thanks to Wikileaks, that the initiative to make the the Sinde law didn't come from from Spain at all. Instead it was forced upon the Spanish government by the US by putting Spain on the '<a href="http://www.ustr.gov/about-us/press-office/reports-and-publications/2010-3" target="_blank">2010 Special 301 Report</a>' (here is <a href="http://www.ustr.gov/webfm_send/1906" target="_blank">the report on pdf</a>), which did the job. The law makes it able to fight piracy and defend copyrights but in the eyes of the people it just another law that protects the rich and limits the freedom of common people and worse, it showed that the government did bend for intimidations from the US.</p><p>The general sentiment, according to the manifest, is that politics are in the hands of a political class that doesn't govern on behalf of the people of Spain. This ruling 'political class' consists of the two biggest parties (<a href="http://en.wikipedia.org/wiki/People%27s_Party_%28Spain%29" target="_blank">PP</a> and <a href="http://en.wikipedia.org/wiki/PSOE" target="_blank">PSOE</a>) that have been in power for in turns for the last thirty years. With no chance of seeing other parties in power it feels like the dictatorship of a class. Wait, does this sound like an old-fashioned call for <a href="http://www.indymedia.ie/attachments/nov2003/classwar2.jpg" target="_blank">class-war</a>?</p><p><strong>What's happening</strong></p><p>Sunday 15<sup>th</sup> of May squares all over the country have been occupied by thousands of people, in Madrid it is happening on <a href="http://www.youtube.com/watch?v=ar2nmOQZEjw" target="_blank">Puerta del Sol square</a>. On the first evening the police reacted to clean up the squares but the next day people came back to do what they planned. Since tuesday people are staying on the square. The plan is to stay at least until next sunday when the elections will be. In the meanwhile <a href="http://content.nos.nl/data/image-op3/xxl/2011/05/18/241385.jpg" target="_blank">encampments have been set up</a> and infrastructures are organised on democratic bases. It looks like a sustainable party that can last for a while. Food, cleaning, actions, and legal issues are beeing discussed in citizen-commities all day long. For the rest the occupations are meltingpots of culture, party and interaction.</p><p>The only thing that hasn't gotten very clear to me is what the ideal outcome of the protests will be. I mean, stating that the protests will last until sunday the 22<sup>nd</sup> is rather a quantitative option than a qualitative. Can it be said that after the local elections things will have changed the way they want to see them? Wouldn't it be an option to keep occupying the streets until minimum wages go up, the political system is revised and the current political class has been <a href="http://forum.politics.be/attachment.php?attachmentid=80604&amp;d=1305301912" target="_blank">publicly decapitated</a>?</p><p>Maybe these kind of measures require at least 20 years of repressive dictatorship including disappearing people, torture, injustice and other things that make a dictator to a real dictator. Well, Spain indeed <a href="http://en.wikipedia.org/wiki/Francisco_Franco" target="_blank">has some experience with that</a>, even fairy recently. After this period, in 1975, the country changed it's political system to what it is now. Is this the moment on which it has again reached it's expirationdate?</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>

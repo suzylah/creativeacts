@@ -1,0 +1,33 @@
+---
+categories:
+- method
+- ">20"
+layout: book
+title: Días de fútbol
+created: 1410175492
+---
+
+For this project we need some people (they could come from subcultural movements or a collective affected by social exclusion), a sport or any other activity fun enough to link different kind of groups, a space to organize a free activity, a bit of knowledge of legal conditions of the space that we choose and someone with experience in the history of the area that we will try to work in (history of the neighborhood, contact with local people and different spaces in the district).
+
+In our case, these were the conditions: we worked with the people of La Fustería, a squat and self-managed space in Cabanyal, with some people from Humoenlaciudad and one member from Difusor (Barcelona).
+
+We choose Cabanyal because after our experience living there for several months, we would describe it like a complex case of lots of different collectives mixed in a structure of social exclusion.
+
+We've chosen football because it is the most popular sport in Spain and, for sure, in Valencia too. As well, there in Cabanyal exists a hotspot of the conflict known with the name of “los bloques” (engl. <em>blocks</em>). It appears to be a modernist building, 90% squated and right now can be considered to be the most important point of a passive resistance against so called "urban development" that the council wants to implement.&nbsp;
+
+There is an abandoned football field in front of the building there. Once it was a free space where everybody could play football until the council decided to start with the development plan. Then there was a new field (10 meters further) built which now is private.
+
+<strong>Dissemination and organization.</strong> It is important to contact groups in the area and know the differences between them. In the case of Cabanyal different groups are very territorial and often do not participate together in common activities.<br>
+In this case we used printed materials for the neighborhood and the internet to cover the rest of the city.</p>
+<p style="margin: 0px 0px 10px; padding: 0px; border: 0px; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; line-height: 20px; font-size: 13.63636302947998px; vertical-align: baseline; color: rgb(59, 59, 59);"><strong>Site specifics.</strong> For the selection of your space it is essential to find accessible open places. Visit the place of organized sports days. Check users of these areas&nbsp; and propose them to participate in planned events showing intention to not invade their everyday space.</p>
+<p style="margin: 0px 0px 10px; padding: 0px; border: 0px; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; line-height: 20px; font-size: 13.63636302947998px; vertical-align: baseline; color: rgb(59, 59, 59);">Think of access to the space and needed material. Pay attention to the safety of those attending as it is one of the main reasons that police allege to interrupt the event.</p>
+<p style="margin: 0px 0px 10px; padding: 0px; border: 0px; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; line-height: 20px; font-size: 13.63636302947998px; vertical-align: baseline; color: rgb(59, 59, 59);">Learn how police would react if an intervention happens according to your plan and find responsible for mediating possibly appearing issues.</p>
+<p style="margin: 0px 0px 10px; padding: 0px; border: 0px; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; line-height: 20px; font-size: 13.63636302947998px; vertical-align: baseline; color: rgb(59, 59, 59);"><br>
+	<strong>Making the attendees take part in the activity.</strong><br>
+	It is important that participants feel they are part of the game.<br>
+	In the beginning we proposed participants to make their own clothes for playing. We also discussed possible risks with potential players and brainstormed what could be viable to make it real.</p>
+<p style="margin: 0px 0px 10px; padding: 0px; border: 0px; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; line-height: 20px; font-size: 13.63636302947998px; vertical-align: baseline; color: rgb(59, 59, 59);">We prepared together templates of numbers from 0 to 9 for player's T- shirts. After we used the screen printing technique: even though in simplified way but opens new horizons.</p>
+<p style="margin: 0px 0px 10px; padding: 0px; border: 0px; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; line-height: 20px; font-size: 13.63636302947998px; vertical-align: baseline; color: rgb(59, 59, 59);">Do not forget to take care of preparing the field! Building gates, cleaning up the field, marking the lines and leaving a sign with announcement of next day's activity should also take place on the initial phase with people you want to engage.</p>
+<p style="margin: 0px 0px 10px; padding: 0px; border: 0px; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; line-height: 20px; font-size: 13.63636302947998px; vertical-align: baseline; color: rgb(59, 59, 59);"><strong>Conflict.</strong> In the case of Cabanyal, organizers thought that inviting one of the major character in the entire conflict would be meaningful. Therefore, the Mayor of the town was called and presented to the people before the game.</p>
+<p style="margin: 0px 0px 10px; padding: 0px; border: 0px; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; line-height: 20px; font-size: 13.63636302947998px; vertical-align: baseline; color: rgb(59, 59, 59);"><strong>Transformation. </strong>It happened in a symbolic dialogue between power and oppressed. People of the neighborhood came down to greet the mayor and express their requests (we were quite sure that some of them had never seen this person of whom they've heard so often). The game stopped being football and became a matter of no-fun importance. We talked about respect, assigning responsibilities, abuse of power and gender (as it was possible for girls to participate for the first time in such an event).</p>
+<p style="margin: 0px 0px 10px; padding: 0px; border: 0px; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; line-height: 20px; font-size: 13.63636302947998px; vertical-align: baseline; color: rgb(59, 59, 59);"><strong>Review.</strong> Take care for a joint viewing of video footages (you might shoot in the process) and collective reflection event. It is essential that people have possibility to speak out, share and be heard. Creating atmosphere where people feel accepted and can socialize is a great help for developing community spirit which is prerequisite for executing coming up ideas and taking care of each other's concerns.</p>

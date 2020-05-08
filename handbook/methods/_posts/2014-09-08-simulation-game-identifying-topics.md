@@ -1,0 +1,20 @@
+---
+categories:
+- method
+- 2 hours
+- any
+- any
+layout: book
+title: Simulation game - identifying topics
+created: 1410167899
+---
+<p style="margin: 0px 0px 10px; padding: 0px; border: 0px; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; line-height: 20px; font-size: 13.63636302947998px; vertical-align: baseline; color: rgb(59, 59, 59);"><strong>Searching for topics in the group</strong></p>
+<p style="margin: 0px 0px 10px; padding: 0px; border: 0px; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; line-height: 20px; font-size: 13.63636302947998px; vertical-align: baseline; color: rgb(59, 59, 59);">Ask everyone to personally think of the top three issues/topics which they would be motivated to work on improving.&nbsp;Ask to divide in couples and compare your lists. Try to identify similar topics and invent macro topics.&nbsp;If the group is larger than 10 people, get together in groups of two couples and repeat the process.</p>
+<p style="margin: 0px 0px 10px; padding: 0px; border: 0px; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; line-height: 20px; font-size: 13.63636302947998px; vertical-align: baseline; color: rgb(59, 59, 59);"><strong>Visualization of the results</strong></p>
+<p style="margin: 0px 0px 10px; padding: 0px; border: 0px; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; line-height: 20px; font-size: 13.63636302947998px; vertical-align: baseline; color: rgb(59, 59, 59);">Visualize the topics on a wall, preferably structured according to the macro topics. Let the participants do that (by post-its, writing notes or any other way), make sure interactive clustering is happening while visualizing (ask the group, what do they think, which topics suit together).</p>
+<p style="margin: 0px 0px 10px; padding: 0px; border: 0px; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; line-height: 20px; font-size: 13.63636302947998px; vertical-align: baseline; color: rgb(59, 59, 59);">Check out what the macro topics of main&nbsp; concern are in the group. If the group is big, ask people to choose the&nbsp; macro topic they are most&nbsp;&nbsp; interested in and form working groups. For this a simple voting technique can be used - everyone has two dots they can put on the issues they are the most motivated about/engaged with.</p>
+<p style="margin: 0px 0px 10px; padding: 0px; border: 0px; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; line-height: 20px; font-size: 13.63636302947998px; vertical-align: baseline; color: rgb(59, 59, 59);"><strong>Reflection</strong></p>
+<p style="margin: 0px 0px 10px; padding: 0px; border: 0px; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; line-height: 20px; font-size: 13.63636302947998px; vertical-align: baseline; color: rgb(59, 59, 59);">Share your motivation to work with the&nbsp; issues - ask, why the people would like to work with the concrete issues. Depending from the size of the group, it can be done together, or in smaller groups.</p>
+<p style="margin: 0px 0px 10px; padding: 0px; border: 0px; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; line-height: 20px; font-size: 13.63636302947998px; vertical-align: baseline; color: rgb(59, 59, 59);">Ask the group/-s to share knowledge about initiatives, actions and individuals already working on the concrete issues. Depending from the group and time, it can be done all together, in smaller groups or by using the principle of "global cafe". Add the results sharing to the visual map (let participants do that).</p>
+<p style="margin: 0px 0px 10px; padding: 0px; border: 0px; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; line-height: 20px; font-size: 13.63636302947998px; vertical-align: baseline; color: rgb(59, 59, 59);">Share in the big group/smaller groups/couples, which of the ideas/actions they find inspiring and what could be repeated.</p>
+<p style="margin: 0px 0px 10px; padding: 0px; border: 0px; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; line-height: 20px; font-size: 13.63636302947998px; vertical-align: baseline; color: rgb(59, 59, 59);">&nbsp;</p>

@@ -1,0 +1,13 @@
+---
+categories:
+- method
+- 30 mins
+- any
+- 3-10
+layout: book
+title: Speed dating
+created: 1410180241
+---
+<p style="margin: 0px 0px 10px; padding: 0px; border: 0px; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; line-height: 20px; font-size: 13.63636302947998px; vertical-align: baseline; color: rgb(59, 59, 59);"><span style="margin: 0px; padding: 0px; border: 0px; font-family: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; line-height: inherit; font-size: 13.63636302947998px; vertical-align: baseline;">Tell participants that they will be involved in a special type of speed dating. Original speed dating is an</span><span style="margin: 0px; padding: 0px; border: 0px; font-family: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; line-height: inherit; font-size: 13.63636302947998px; vertical-align: baseline;"> organized method of meeting potential romantic partners in which participants evaluate each other over the course of a single event through a series of brief one-on-one meetings. For this special type of speed dating participants will make couples and talk for around 5 min about a topic or question that facilitator will give to them. After first 5 minutes participants have to find a new couple and a different topic will be given to them. Participants keep changing couples and sharing about different topics as times as the facilitator decided.</span></p>
+<p style="margin: 0px 0px 10px; padding: 0px; border: 0px; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; line-height: 20px; font-size: 13.63636302947998px; vertical-align: baseline; color: rgb(59, 59, 59);"><span style="margin: 0px; padding: 0px; border: 0px; font-family: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; line-height: inherit; font-size: 13.63636302947998px; vertical-align: baseline;">Some suggestions for questions could be: </span></p>
+<p style="margin: 0px 0px 10px; padding: 0px; border: 0px; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; line-height: 20px; font-size: 13.63636302947998px; vertical-align: baseline; color: rgb(59, 59, 59);"><span style="margin: 0px; padding: 0px; border: 0px; font-family: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; line-height: inherit; font-size: 13.63636302947998px; vertical-align: baseline;">Tell about the last action you have been involved? Why you decide to came to this workshop? Your favorite ice-cream flavor? Somebody that inspire you? Where do you live? Tell about the organization are you coming from. Share a topic you are engaged with...</span></p>

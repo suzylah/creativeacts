@@ -1,0 +1,48 @@
+---
+categories: interview
+layout: book
+title: Singing Skopjans
+created: 1410856103
+---
+
+A song won't bring a repressive government down but it can piss it off.
+
+Singing Skopjans (Распеани скопјани) is an activist choir based in Skopje, Macedonia. Their actions in the public space represent “an attempt to intervene in the violent polarized discourse in which the voices of the different are not heard, but the voices of the more powerful are”. They describe themselves as a thought articulated in music and performance that tackles the current social and political issues in the city and the world in which they live in. As they say for themselves:
+
+<!--more-->
+
+“Singing Skopjans performs as one, but they are not one in any case. Singing Skopjans is a performance, a play and political reasoning."
+
+Mašta: What were the reasons for you to organize a socially and politically conscious self-organized choir which resist the current government polices, critiques the social circumstances and gives support to other activist initiatives?
+
+In the last years, we were attempting to turn ourselves in the public discourse and in re-thinking of society in which we live and what we want it to be. We are frequently trying out different forms of inclusion, but generally we are dealing with the rule of the more powerful and forceful. Maybe this form of communication causes less attention on the point we are trying to make. When resistance is concerned, it is in the root of the reasons why we exist after we were violently chased away from the main square in Skopje on March 28th, 2009 (http://globalvoicesonline.org/2009/03/31/macedonia-student-protest-ends-... ), we have decided the we will constantly return to that square with a song and we will be sending a message that the square is ours after all, and it won't be a public square if it wasn't so.
+
+Mašta: What is the way in which the choir is organized? Is it completely horizontally organized or is there some kind of a hierarchy?
+
+There is no hierarchy – each current member equally contributes in the decisions of the current actions of the choir. No matter if the decision is about the choice of an occasion, a song, a location of filming or other creative idea about choreography, use of items or something similar, everything is discussed in the group (on our mailing list or our “classes” which we organize from time to time) and is performed in a democratic manner: We adopt the suggestion which the majority will pass and then we start to prepare the action. The only thing in which we do not get involved is the musical part, we do not interfere in expertize of our conductor and we accept his/her professional suggestion without judgmental.
+
+Mašta: Are you completely open so far membership in the choir is concerned?
+
+Everyone who wants to be a member of the choir has sung a song with us. People come to us on their own – some of them are our friends and acquaintances, some of them are completely unknown persons who find us on the social networks. None of our members were “scanned” or checked; we function on the principle of trust and we consider that everyone who approaches the choir should at least agree with a part of our potions or if they have their own- to share them with us. However, it has happened that members of the choir leave due to different reasons and that is how the filtering and fluctuation actually occurs: some simply do not have the time and energy to dedicate themselves to the rehearsals, discussions and endless brainstorming. On the other hand, some do not see themselves in the messages that the choir conveys, others are simply afraid. However, the choir has always been open for everyone who has sung  and for those who like to sing. Luckily, there are at least always 15 people who are in the mood to take a part of their time and energy to create some new arrangement, new cover or commentary of the issues that concern us in the country and in the city.
+
+Mašta: Which is the criteria by which you choose the songs?
+
+If we want to have an effect of our performances, the song has to suit the occasion. Sometimes that connection is made immediately, but in some situations we listen to dozens of suggestions, we discuss them in our mailing list until we vote and agree on the most suitable suggestion. It is important to us that the lyrics of the song are in the context of what we are singing about (we do not want to change the original lyrics of the songs a lot, even though we sometimes do make minimal changes of a word or a verse). It is also important that the chosen song is familiar, because the popular songs reach people more easily and so they turn the attention on the issues. We are satisfied the most, when besides being familiar, catchy and suitable for being covered, the song also represents a musical piece that we like to listen to (which is not always the case).
+
+Mašta: The verbal violence that frequently occurs in the social environment is in many occasions transformed into physical violence. How much do you think that this type of non-violent protest can be efficient in bringing social and political changes?
+
+
+The first catch-phrase that the Macedonian audience connected to the Singing Skopjans when they first appeared is “who is singing, thinks no evil” (a famous Macedonian saying – interviewers note). We, on the other hand, have a different motto “who sings, thinks”. The one who decides to sing, instead of cheering and using stones and fists, has understood that the stones and the fists only bring more stones and fists. The violent changes are ineffective, are covered in blood and are short-term. We are an activist choir, not an artist group. However, we have chosen music as a mode of expressing revolt and we expect that the way in which we will influence the changes will be like that: every art form influences indirectly, on a subtle level. Music makes evolutions more often than revolutions, and we need an evolution. We hope that other cities will start to sing as well, that the fear will disappear. And when we are not afraid, we can achieve a lot. Every time we get discouraged we ask ourselves if there is any effect of our struggle, but we remember how the politicians of the ruling party call us by our names in the media, they “research” our family trees and bank accounts, using all of the available means to discredit us individually in order to disarm us collectively. All of that, because of signing a song. Is there a bigger evidence than that on the issue that what we do still creates an effect?
+
+ 
+
+Mašta: Which are the ways in which you promote and share the actions with the general population?
+ 
+Our street performances are unannounced, so in the moment of action we are singing to the people which are currently on the location. Sometimes it occurs to attract their attention, other times we are just ignored. However, every action is filmed and uploaded on our YouTube channel. For there on, every video lives its own life: we, the members of the choir and everyone who thinks that our message is relevant in the given moment, can share it on Facebook. The best insight of the relevance are the numbers of views of our videos. Some are viewed more them thousand times. However, we must not forget the shares of our “haters” who, even though spiced up with a hateful comment and an insult, still contribute to the spreading of our messages.
+ 
+Mašta: Despite the frequent verbal attacks in the comments on the social networks, has it ever occurred to you to be attacked physically?
+ 
+Something like that has not occurred yet, eventhough there were pretty “graphic” threads toward us. However, that is not always excluded. When we only remind ourselves of the brutal attacks that happened in Skopje between groups and individuals from different nationalities or sexual orientation, or when we remind ourselves of the brutal demolitions of the LGBT support (http://www.youtube.com/watch?v=a7FlhIOmhFg) center in the Old Bazaar in Skopje, there is a reason to think that we just weren't put in the same place and time with our aggressive opponents and that there wasn't a song and occasion that would have provoked physical violence.
+Mašta: You have also performed with different activist choirs from the region. How much does the focus in the choice of the direction of action of the other activist choirs differs from your own ?
+
+We had the luck and the great pleasure in several occasions to perform, hang out and exchange experiences with other activist choirs in the region such as Kombinat, Le Zbor, Horkestar, Svetonazori, Prrroba and others. We noticed that each one of these choirs has a general focus: social rights, women rights and rights of the LGBT community, critique of the rising nationalism, etc. We also deal with these issues, as well as with our local, urban topics and problems. However, this leaves the impression that all of the states from former Yugoslavia are troubled with the same problems such as social inequality, violation of basic human rights, especially woman’s rights, homophobia, nationalism, clericalism, fascism and other local madness which are usually helped by the ruling elites. On our common meetings and performances we remind ourselves and we additionally motivate each other to keep singing and to try to make a difference, each in his own country. It is always nice to know that you are not alone in the struggle for justice, equality and freedom.

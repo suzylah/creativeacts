@@ -1,0 +1,12 @@
+---
+categories:
+- urban
+- brussels
+- belgium
+- intervention
+- upcycling
+layout: posting
+title: Video House Squatters
+created: 1323809838
+---
+<p><img alt="" src="/assets/files/u3/medium_videohousesquatters.jpeg" style="float: left; width: 240px; height: 240px; ">Last summer the trees of Brussels suddenly got a strange new addition. Hundreds of bird boxes made from video tapes started appearing everywhere.</p><p>This urban intervention formed part of the socalled Technotrash Project, by Ognev Vlaminck, who experiments with upcycling of technological trash.</p><p>Since there is no recycling program in Brussels that deals with video tapes, you are forced to throw your old tapes away together with the rest of your non-recyclable trash, which means it will get burned afterwards. Not very environmentally friendly...</p><p>That's why Ognev started his technotrash projects, to make people think about the way they deal with their waste, and to make them conscious when they buy stuff of the day they will have to throw it away again. Lots of people buy DVD's now, but do they remember the days when they bought all those video tapes and audio tapes, which they now have no decent way to get rid of?</p><p>Sure, sometimes you can sell a couple of your old tapes on a flea market, or give them to a friend who still uses a VCR, but what do you do with the rest?</p><p><img alt="" src="/assets/files/u3/medium_videohousesquatters3.jpeg" style="float: right; width: 240px; height: 240px; "></p><p>The answer: you can upcycle them, and turn them into something with a new function!&nbsp;Or, you can mail it to Ognev, who collects technological trash like this for his projects.</p><p>Last summer he used video tapes, floppies, and audio tapes to make bird houses, which he hung up on trees in the city. He took care not to damage any trees by only using nails that were already present in the tree.</p><p>Unfortunately, a couple of months after he hung up his 200 bird nests, he was ordered by the city to removed them. Apparently you even need a building permission to build a <em>bird </em>house. They also told him the dimensions of these houses were not conform the official dimensions of bird houses.</p><p>Yes, bird burocracy.</p><p>&nbsp;</p><p><a href="http://www.youtube.com/watch?v=0d_w_TnFKgQ">An interview with the artist on BBC radio</a></p><p><a href="http://videohousesquatters.maximalisme.be">His website</a></p><p>&nbsp;</p>

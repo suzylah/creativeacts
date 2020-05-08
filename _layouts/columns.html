@@ -1,0 +1,85 @@
+---
+layout: default
+---
+
+<h2>Perspectives</h2>
+
+We put together some theoretical ideas, metaphors and definitions to explain what we mean when we say creative activism.
+
+<div class="card-columns">
+    {%- for post in site.categories.all -%}
+    <div class="card">
+        <!--<img src="..." class="card-img-top" alt="...">-->
+        <div class="card-body">
+        <span>Perspective</span>
+        <h5 class="card-title">
+            <a class="post-link" href="{{ post.url | relative_url }}">
+            {{ post.title | escape }}
+            </a>
+        </h5>
+        <p class="card-text">{{ post.excerpt }}</p>
+        </div>
+    </div>
+    {%- endfor -%}
+</div>
+
+<hr>
+
+<h2>Interviews</h2>
+
+<div class="card-columns">
+    {%- for post in site.categories.interview -%}
+    <div class="card">
+        <!--<img src="..." class="card-img-top" alt="...">-->
+        <div class="card-body">
+        <span>Interview</span>
+        <h5 class="card-title">
+            <a class="post-link" href="{{ post.url | relative_url }}">
+            {{ post.title | escape }}
+            </a>
+        </h5>
+        <p class="card-text">{{ post.excerpt }}</p>
+        </div>
+    </div>
+    {%- endfor -%}
+</div>
+
+<hr>
+
+<h2>Action</h2>
+<div class="card-columns">
+    {%- for post in site.categories.action -%}
+    <div class="card">
+        <!--<img src="..." class="card-img-top" alt="...">-->
+        <div class="card-body">
+        <span>Action</span>
+        <h5 class="card-title">
+            <a class="post-link" href="{{ post.url | relative_url }}">
+            {{ post.title | escape }}
+            </a>
+        </h5>
+        <p class="card-text">{{ post.excerpt }}</p>
+        </div>
+    </div>
+    {%- endfor -%}
+</div>
+
+<hr>
+
+<h2>Methods</h2>
+<div class="card-columns">
+    {%- for post in site.categories.method -%}
+    <div class="card">
+        <!--<img src="..." class="card-img-top" alt="...">-->
+        <div class="card-body">
+        <span>Method</span>
+        <h5 class="card-title">
+            <a class="post-link" href="{{ post.url | relative_url }}">
+            {{ post.title | escape }}
+            </a>
+        </h5>
+        <p class="card-text">{{ post.excerpt }}</p>
+        </div>
+    </div>
+    {%- endfor -%}
+</div>

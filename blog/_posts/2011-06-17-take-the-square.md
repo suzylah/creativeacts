@@ -1,0 +1,14 @@
+---
+categories:
+- everywhere
+- "#spanishrevolution"
+- the world
+- "#globalrevolution"
+- yes we camp
+- take the square
+- "#realdemocracy"
+layout: posting
+title: Take the square!
+created: 1308343617
+---
+<p><img alt="" src="/assets/files/u6/entramostodosA5_600.jpg" style="width: 422px; height: 600px; float: right;"><a href="http://takethesquare.net/#" target="_blank">Why didn't anybody think of this earlyer?</a> To get real democracy going the only thing we (the people that inhabit our planet) need to do is to show that we are there. As a force to reckoned with. Nowadays it is very fashionable to display this by occupying a major square in a city.&nbsp;</p><p>Hipsters of the world, what are you waiting for?</p><p><strong>What's next?</strong></p><p>A website is released (hyperlinked by the first words of this post) to organize a massive global movement that occupies squares all over the world. Why? Because 'democracy' has become nothing more than a word, the name of an institute, justifying that what it ever, way back in history, was countering.</p><p>First Tunesia, soon it spread to Egypt, Libya, Syria and than it became quiet. It looked like the violent government action had tamed the people. Than, all the sudden, the format appeared in Spain, who would have expected that? While in Greece the people reacted with <a href="http://img.terra.com.br/i/2011/06/16/1920767-4613-atm14.jpg" target="_blank">longlasting riots</a> and disturbance to the economic crisis and unimployement, in Spain the people seemed to have copyed the concept used by their Arabian counterparts. After big demonstrations some people decided to take their residence of the main square. This provoced a violent reaction from the police which in turn provoced the people to increase the occupations of the squares. And so it begun, in Europe.</p><p><strong>That is already over a month ago</strong></p><p>Seen the amount of responce from all over the world it is about time to emphasize the willingness to go viral. As already was clear a website is released to call for organisation of a worldwide movement. It doesn't tell you where to meet, as long as you do. It doesn't tell you what time meet, you have to <a href="http://www.movements.org/how-to" target="_blank">figure that out yourself</a>.</p><p>So what it will result in will be a question until after the 19th of june. For sure it will not be on the account of the people who made the website. Neither it will be the people who have already started the move around the Mediteranean. No, this time it will be on the account of you and me. Those who will show up will be responcible for the succes, those who stay home will be to blame for the lacking of it.</p><p>We will see, <a href="http://takethesquare.wordpress.com/where-and-when/">I'll be there</a>.<!--break--></p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>
