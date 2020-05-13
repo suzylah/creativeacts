@@ -15,7 +15,7 @@ With your head full of thoughts and your body full of energy you can create your
 Bertolt Brecht
 </blockquote>
 
-###Planning vs. No planning
+### Planning vs. No planning
 
 <p>Some people come up with an idea and the next moment it's already done. Acting spontaneously from the instant spot, improvising with what you have around you can work out really great. If planning makes you feel like it takes forever before anything happens and you'd rather not do anything at all if you have to plan it too much, then you'd better stop reading right now and get on with it!</p>
 <p>However, thinking through your actions and making detailed preparations will not only prepare you for a range of different situations and outcomes but also possibly develop your actions and make them more powerful.</p>
