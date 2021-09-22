@@ -1,5 +1,5 @@
 # creativeacts
-Creative Acts / Mašta – magazine for creative activism. Site and archive of all issues plus handbook 2006 - 2015
+RIP Creative Acts / Mašta – magazine for creative activism 2006 - 2015. Site and archive of all magazine issues plus the handbook
 
 
 ## instructions for collaborators
